@@ -7,6 +7,10 @@ __pycache__/
 *.so
 /Volume 1 - Supervised Deep Learning/Part 2 - Convolutional Neural Networks (CNN)/Section 8 - Building a CNN/mine/logs/
 /Volume 1 - Supervised Deep Learning/Part 2 - Convolutional Neural Networks (CNN)/Section 8 - Building a CNN/instructor/dataset/
+/Volume 2 - Unsupervised Deep Learning/Part 5 - Boltzmann Machines (BM)/Section 19 - Building a Boltzmann Machine/instructor/ml-1m/
+/Volume 2 - Unsupervised Deep Learning/Part 5 - Boltzmann Machines (BM)/Section 19 - Building a Boltzmann Machine/instructor/ml-100k/
+
+
 # Distribution / packaging
 .Python
 env/
